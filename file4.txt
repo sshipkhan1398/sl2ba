@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 learning the basic of git
+=======
+learning the basic of git and modified 
+>>>>>>> firstbranch
