@@ -1,2 +1,3 @@
 # sl2ba
-first
+Learning how to use git. Its a tutorial
+
